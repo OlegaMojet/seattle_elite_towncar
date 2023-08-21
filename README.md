@@ -1,4 +1,4 @@
-# seattle_taxi
+# seattle_elite_towncar
 
 A new Flutter project.
 

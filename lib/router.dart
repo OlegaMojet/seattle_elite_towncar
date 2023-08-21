@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:seattle_taxi/welcome_screen.dart';
+import 'package:seattle_elite_towncar/welcome_screen.dart';
 
 class AppRouter {
   static GoRouter get router => GoRouter(

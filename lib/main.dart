@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:seattle_taxi/router.dart';
-import 'package:seattle_taxi/core/utils/theme.dart';
+import 'package:seattle_elite_towncar/router.dart';
+import 'package:seattle_elite_towncar/core/utils/theme.dart';
 
 void main() {
   runApp(const MyApp());

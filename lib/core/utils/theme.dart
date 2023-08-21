@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:seattle_taxi/core/utils/gen/fonts.gen.dart';
+import 'package:seattle_elite_towncar/core/utils/gen/fonts.gen.dart';
 
 import 'colors.dart';
 
