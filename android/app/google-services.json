@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "382364726228",
+    "project_id": "limosoft",
+    "storage_bucket": "limosoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382364726228:android:e58f886ec752e74ce79c41",
+        "android_client_info": {
+          "package_name": "com.taxi.limosoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382364726228-hkvtviv5b2ms1fssmg80h7oakkf5n4n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.limosoft",
+            "certificate_hash": "f676045249d34df15b69f291068cfc5181985a28"
+          }
+        },
+        {
+          "client_id": "382364726228-8cjpag27cd17q06ulise2mvoqtviu3q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuLh60sSQCSTMhitGO1VzoLIroxPp8p1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382364726228-8cjpag27cd17q06ulise2mvoqtviu3q8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382364726228-j04v7om4soqt4m0aegf3irimimpl2g8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taxi.limosoft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
